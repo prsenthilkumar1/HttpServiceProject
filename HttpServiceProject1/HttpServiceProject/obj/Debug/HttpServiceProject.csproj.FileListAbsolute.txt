@@ -1,0 +1,5 @@
+C:\FSE\Assignment_21\ServiceProject\HttpServiceProject\HttpServiceProject1\HttpServiceProject\bin\HttpServiceProject.dll.config
+C:\FSE\Assignment_21\ServiceProject\HttpServiceProject\HttpServiceProject1\HttpServiceProject\bin\HttpServiceProject.dll
+C:\FSE\Assignment_21\ServiceProject\HttpServiceProject\HttpServiceProject1\HttpServiceProject\bin\HttpServiceProject.pdb
+C:\FSE\Assignment_21\ServiceProject\HttpServiceProject\HttpServiceProject1\HttpServiceProject\obj\Debug\HttpServiceProject.dll
+C:\FSE\Assignment_21\ServiceProject\HttpServiceProject\HttpServiceProject1\HttpServiceProject\obj\Debug\HttpServiceProject.pdb
